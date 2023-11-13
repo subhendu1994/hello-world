@@ -32,6 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Diwali </h1>
+   <h1> Happy Learning </h1>
 
   
 </form>
