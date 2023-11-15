@@ -33,7 +33,7 @@
 
    <h1> Thankyou, Happy Diwali </h1>
    <h1> Happy Learning, Added this line </h1>
-   <h1> final chages </h1>
+   <h1> Thank YOU </h1>
 
   
 </form>
